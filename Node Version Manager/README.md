@@ -21,6 +21,12 @@ Check PowerShell script
   .\Node Version Manager.ps1
 ```
 
+## Screenshots
+
+![NVM loading](https://github.com/theFest/Tools/blob/main/Node%20Version%20Manager/Data/NVM1.png?raw=true)
+![NVM checking](https://github.com/theFest/Tools/blob/main/Node%20Version%20Manager/Data/NVM2.png?raw=true)
+![App main menu](https://github.com/theFest/Tools/blob/main/Node%20Version%20Manager/Data/NVM3.png?raw=true)
+
 
 ## Contributing
 
